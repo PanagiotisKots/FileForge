@@ -65,21 +65,21 @@ Usage Instructions:
     Usage:
         To use this command-line utility, follow the instructions below:
             Create a File:
-            shell
+         
 
            $ ./file_utility create <filename>
 
 *******************
 Read File Contents:
 *******************
-            shell
+            
 
             $ ./file_utility read <filename>
 
 *************
 Update File:
 *************
-           shell
+         
            
            $ ./file_utility update <filename> <content>
 
@@ -87,7 +87,7 @@ Update File:
 Delete File:
 ************
 
-            shell
+            
 
             $ ./file_utility delete <filename>
 
@@ -98,13 +98,13 @@ Installation Instructions:
         C++ compiler (e.g., g++) if on windows, if in linux you have it preinstalled
     Installation:
         Clone the repository:
-        shell
+    
 
           $ git clone https://github.com/yourusername/file-utility.git
 
           Navigate to the project directory:
 
-          shell
+         
 
           $ cd file-utility
 ************************
@@ -116,11 +116,11 @@ Compile the source code:
 *****************************************
 Run the program with the desired command:
 *****************************************
-     shell
+    
 
      $ ./file_utility <command> [arguments]
 
 Tip: if in linux, you can try: 
-     shell
+     
      $ ./file_utility <command> [arguments] 2> filename.txt 
 and you will be redirecting the error-out stream instead of the screen to a file you specify and create.
