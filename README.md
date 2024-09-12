@@ -143,7 +143,7 @@ Here’s how you can get in touch with the creator of **FileForge**. Whether you
 
 | **Method**         | **Details**                                                                                          |
 |--------------------|------------------------------------------------------------------------------------------------------|
-| **Email**          | ![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [johndoe@example.com](mailto:johndoe@example.com) |
+| **Email**          | ![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [](mailto:johndoe@example.com) |
 
 
 ## Technologies and Tools Used 🛠️
