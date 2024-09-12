@@ -84,22 +84,6 @@ Explore directories and files using the tree view on the left.
 
 
 
-## Icons 🎨
-
-Here are some icons used in FileForge:
-
-- **Create**:
-  ![Create Icon](https://example.com/create-icon.png) <!-- Replace with your icon URL -->
-- **Delete**:
-  ![Delete Icon](https://example.com/delete-icon.png) <!-- Replace with your icon URL -->
-- **Rename**:
-  ![Rename Icon](https://example.com/rename-icon.png) <!-- Replace with your icon URL -->
-- **Open**:
-  ![Open Icon](https://example.com/open-icon.png) <!-- Replace with your icon URL -->
-
-
-
-
 
 ![FileForge Logo](img/img1.jpg) <!-- Replace with your logo URL -->
 ## Contributing 🤝
@@ -108,18 +92,18 @@ We welcome contributions to **FileForge**! If you’d like to contribute, please
 
 1. **Fork the repository**.
 2. **Create a new branch**:
-   ```sh
+
    git checkout -b feature/your-feature
 
     Commit your changes:
 
-    sh
+
 
 git commit -am 'Add new feature'
 
 Push to the branch:
 
-sh
+
 
     git push origin feature/your-feature
 
@@ -130,13 +114,12 @@ License 📜
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact 📧
 
-For any inquiries, please reach out to your.email@example.com.
+For any inquiries, please reach out to pkotsorgios654@gmail.com.
 
-less
 
 
 ### Notes:
-- Update the email address in `[your.email@example.com](mailto:your.email@example.com)` with the actual contact email.
+- Update the email address in `[pkotsorgios654@gmail.com.com](mailto:pkotsorgios654@gmail.com)` with the actual contact email.
 - Ensure the `LICENSE` file link is correct if you have it in the repository or adjust the path as needed.
 
 
