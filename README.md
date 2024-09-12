@@ -1,8 +1,26 @@
+<div align = "center">
+
 # FileForge 🔨
 
+</div>
+
+
+<div align = "center">
+
+    
 Welcome to **FileForge**! This project is a powerful file management tool designed to simplify handling files and directories. With FileForge, you can create, delete, rename, and open files with ease, all within an intuitive interface.
 
+
+</div>
+
+<div align = "center">
+
+    
 ![FileForge Logo](img/img.jpg) <!-- Replace with your logo URL -->
+
+
+</div>
+
 
 ## Features 🌟
 
