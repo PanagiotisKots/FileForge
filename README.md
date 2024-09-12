@@ -149,3 +149,16 @@ Here’s how you can get in touch with the creator of **FileForge**. Whether you
 |--------------------|------------------------------------------------------------------------------------------------------|
 | **Email**          | ![Email Icon](https://icons.io/icons/email.png) [johndoe@example.com](mailto:johndoe@example.com) |
 | **Support**        | ![Support Icon](https://icons.io/icons/support.png) [FileForge Support](mailto:support@fileforge.com) |
+
+
+
+
+
+
+
+
+## Technologies and Tools Used 🛠️
+
+| **Technologies & Tools**                    |
+|----------------------------------------------|
+| ![C++ Icon](https://icons.io/icons/cplusplus.png) ![Windows Icon](https://icons.io/icons/windows.png) ![Git Icon](https://icons.io/icons/git.png) ![Visual Studio Icon](https://icons.io/icons/visualstudio.png) ![Embarcadero Icon](https://icons.io/icons/embarcadero.png) |
