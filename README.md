@@ -118,12 +118,6 @@ For any inquiries, please reach out to pkotsorgios654@gmail.com.
 
 
 
-### Notes:
-- Update the email address in `[pkotsorgios654@gmail.com.com](mailto:pkotsorgios654@gmail.com)` with the actual contact email.
-- Ensure the `LICENSE` file link is correct if you have it in the repository or adjust the path as needed.
-
-
-
 
 
 ## Contact the Creator 🤝
