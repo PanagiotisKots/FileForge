@@ -82,9 +82,7 @@ Run the Application:
 
 Explore directories and files using the tree view on the left.
 
-## Screenshots 📸
 
-![FileForge Screenshot](https://example.com/screenshot.png) <!-- Replace with your screenshot URL -->
 
 ## Icons 🎨
 
