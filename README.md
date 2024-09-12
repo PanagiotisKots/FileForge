@@ -46,9 +46,8 @@ Installation 💻
 
     Clone the Repository:
 
-    sh
-
-git clone https://github.com/yourusername/fileforge.git
+    git clone https://github.com/PanagiotisKots/FileForge.git
+    
 
 Open the Project:
 
