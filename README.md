@@ -156,10 +156,9 @@ Here’s how you can get in touch with the creator of **FileForge**. Whether you
 
 
 
-
 ## Technologies and Tools Used 🛠️
 
-| **Technologies & Tools**                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------|
-| ![C++ Icon](https://img.icons8.com/ios/50/000000/c-plus-plus.png) ![Windows Icon](https://img.icons8.com/ios/50/000000/windows-10.png) ![Git Icon](https://img.icons8.com/ios/50/000000/git.png) ![Visual Studio Icon](https://img.icons8.com/ios/50/000000/visual-studio.png) ![Embarcadero Icon](https://img.icons8.com/ios/50/000000/embarcadero.png) |
+| **Technologies & Tools**                                                                                       |
+|-----------------------------------------------------------------------------------------------------------------|
+| ![C++ Icon](https://github.com/github/octicons/raw/master/icons/c-plus-plus.svg) ![Windows Icon](https://github.com/github/octicons/raw/master/icons/windows.svg) ![Git Icon](https://github.com/github/octicons/raw/master/icons/git-branch.svg) ![Visual Studio Icon](https://github.com/github/octicons/raw/master/icons/visual-studio.svg) ![Embarcadero Icon](https://github.com/github/octicons/raw/master/icons/circle-filled.svg) |
 
