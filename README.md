@@ -135,8 +135,8 @@ Here’s how you can get in touch with the creator of **FileForge**. Whether you
 |--------------------|------------------------------------------------------------------------------------------------------|
 | **Name**           | Panagiotis Kotsorgios|
 | **Role**           | Lead Developer                                                                                      |
-| **LinkedIn**       | ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [John Doe](https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/) |
-| **GitHub**         | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [johndoe]([https://github.com/johndoe](https://github.com/PanagiotisKots/PanagiotisKots))           |
+| **LinkedIn**       | ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [](https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/) |
+| **GitHub**         | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) []([https://github.com/johndoe](https://github.com/PanagiotisKots/PanagiotisKots))           |
 
 
 ### Contact Information 📧
