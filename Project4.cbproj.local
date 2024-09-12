@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/12 00:03:54.000.410,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2024/09/12 00:03:54.000.475,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2024/09/12 00:04:12.000.337,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit3.h=C:\Users\PC\Desktop\fileforge\FileForge.h</Transaction>
+    <Transaction>2024/09/12 00:04:12.000.337,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\PC\Desktop\fileforge\FileForge.dfm</Transaction>
+    <Transaction>2024/09/12 00:04:12.000.337,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit3.cpp=C:\Users\PC\Desktop\fileforge\FileForge.cpp</Transaction>
+    <Transaction>2024/09/12 01:23:33.000.432,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project4.cbproj=C:\Users\PC\Desktop\fileforge\Project4.cbproj</Transaction>
+    <Transaction>2024/09/12 01:23:33.000.412,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project4PCH1.h=C:\Users\PC\Desktop\fileforge\Project4PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
