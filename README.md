@@ -2,7 +2,7 @@
 
 Welcome to **FileForge**! This project is a powerful file management tool designed to simplify handling files and directories. With FileForge, you can create, delete, rename, and open files with ease, all within an intuitive interface.
 
-![FileForge Logo](https://example.com/logo.png) <!-- Replace with your logo URL -->
+![FileForge Logo](img/img.jpg) <!-- Replace with your logo URL -->
 
 ## Features 🌟
 
@@ -47,7 +47,7 @@ Run the Application:
 
 
 
-
+![FileForge Logo](img/img2.jpg) <!-- Replace with your logo URL -->
 
 
 ## Usage 📘
@@ -86,6 +86,7 @@ Here are some icons used in FileForge:
 
 
 
+![FileForge Logo](img/img1.jpg) <!-- Replace with your logo URL -->
 ## Contributing 🤝
 
 We welcome contributions to **FileForge**! If you’d like to contribute, please follow these steps:
